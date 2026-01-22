@@ -1,3 +1,3 @@
 # Enjoy using the script!
 
-- Made with <3 by Overclocked Team
+- Made with <3 by NoxWare Team
